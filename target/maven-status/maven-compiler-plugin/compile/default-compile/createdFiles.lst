@@ -1,0 +1,4 @@
+RestService\UserService.class
+com\mycompany\gatosrest\JakartaRestConfiguration.class
+com\mycompany\gatosrest\resources\JakartaEE10Resource.class
+RestService\RestApp.class
